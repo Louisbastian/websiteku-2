@@ -39,3 +39,4 @@
 			</div><!-- Akhir Kolom -->
 		</div><!-- Akhir Baris -->
 		</div><!--  Akhir Page -->
+<?php include "footer.php"; ?>

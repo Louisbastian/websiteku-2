@@ -48,3 +48,5 @@
 				</div>
       </div>
 	</div><!-- Akhir Kolom Pertama -->
+
+	<?php include "footer.php"; ?>

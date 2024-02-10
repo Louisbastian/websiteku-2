@@ -31,9 +31,6 @@
 					</div>
 			</div>
 		</div>
-	</div>
+	</div><br><br><br>
 	
-<script src="bootstrap/js/jQuery.js"></script>
-<script src="bootstrap/js/bootstrap.min.js"></script>
-</body>
-</html>
+<?php include "footer.php"; ?>

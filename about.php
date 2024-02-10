@@ -26,8 +26,6 @@
       <li>Email: bastiangulo.com</li>
       <li>Telepon: 123-456-7890</li>
       <li>Alamat: Jl.Beo, Medan, Indonesia</li>
-    </ul>
-<script src="bootstrap/js/bootstrap.js"></script>
-<script src="bootstrap/js/bootstrap.min.js"></script>
-</body>
-</html>
+    </ul><br><br><br>
+
+<?php include "footer.php"; ?>

@@ -31,3 +31,8 @@
 		    </div>
 		</div>
 	</nav>
+
+<script src="bootstrap/js/jQuery.js"></script>
+<script src="bootstrap/js/bootstrap.min.js"></script>
+</body>
+</html>
